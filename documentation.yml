@@ -1,0 +1,14 @@
+toc:
+  - name: Getting started
+    file: README.md
+  - name: NPM scripts
+    file: npmScripts.md
+  - Fasttrack
+  - name: Result
+  - Company
+  - Contact
+  - name: Types
+  - FasttrackOptions
+  - Options
+  - Token
+  - name: Errors
